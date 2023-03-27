@@ -1,0 +1,11 @@
+document converter app
+
+.pdf
+.docx
+.xlsxl
+
+word -> pdf
+pdf -> corel draw
+excel -> word
+word -> excel
+excel -> pdf
